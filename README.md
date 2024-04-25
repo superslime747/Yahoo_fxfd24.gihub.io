@@ -1,2 +1,3 @@
 Этот репозитрой создан для проекта "Предсказание стоимости активов при помощи ИИ"
-![Uploading image.png…]()
+![image](https://github.com/fxfd24/Yahoo_fxfd24.gihub.io/assets/92445614/fa133d55-8617-4b87-b9b0-1d517c599f21)
+
